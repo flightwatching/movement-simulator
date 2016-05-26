@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 800 500" enable-background="new 0 0 800 500" xml:space="preserve">
+<rect id="BG_anim" fill="#282828" stroke="#000000" stroke-miterlimit="10" width="800" height="500"/>
+<g id="pyramid">
+
+		<rect x="372.2" y="121.7" transform="matrix(-0.7153 -0.6988 0.6988 -0.7153 651.528 701.6998)" fill="none" stroke="#BCBEC0" stroke-width="2" stroke-miterlimit="10" width="192.9" height="192.9"/>
+	<g>
+		<g>
+
+				<line fill="none" stroke="#BCBEC0" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="467.1" y1="81.7" x2="467.2" y2="87.7"/>
+
+				<line fill="none" stroke="#BCBEC0" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray="12.4165,12.4165" x1="467.4" y1="100.1" x2="470.2" y2="342.2"/>
+
+				<line fill="none" stroke="#BCBEC0" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="470.3" y1="348.4" x2="470.3" y2="354.4"/>
+		</g>
+	</g>
+	<g>
+		<g>
+
+				<line fill="none" stroke="#BCBEC0" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="333" y1="219.7" x2="339" y2="219.6"/>
+
+				<line fill="none" stroke="#BCBEC0" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray="12.4165,12.4165" x1="351.4" y1="219.5" x2="593.5" y2="216.6"/>
+
+				<line fill="none" stroke="#BCBEC0" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="599.7" y1="216.6" x2="605.7" y2="216.5"/>
+		</g>
+	</g>
+</g>
+<path id="HW10_zone" fill="none" stroke="#58595B" stroke-width="54" stroke-miterlimit="10" d="M847.3,42.7
+	c0,0-440.7-22.6-477,18.1s-34.6,143.1-137,177.8C145.8,268.2,62.8,342.9,62.8,500"/>
+<path id="HW28_zone" fill="none" stroke="#58595B" stroke-width="54" stroke-miterlimit="10" d="M194.7,500c0,0,3-110.9,112.6-109.6
+	c118.6,1.4,31.9,1.6,170.4,1.6s322.4,0,322.4,0"/>
+<path id="HW23_zone" fill="none" stroke="#58595B" stroke-width="54" stroke-miterlimit="10" d="M0,66c0,0,88,2.8,133.2,1.4
+	c118.5-3.7,205.9,324.5,344.4,324.5s322.4,0,322.4,0"/>
+<path id="HW60_zone" fill="none" stroke="#58595B" stroke-width="54" stroke-miterlimit="10" d="M800,250c0,0-220.9-3.3-227.6,69.3
+	c-6.7,72.6-17.8,87.3-17.8,180.7"/>
+<g id="circles">
+
+		<circle fill="none" stroke="#FFF200" stroke-width="3" stroke-miterlimit="10" stroke-dasharray="5" cx="673.1" cy="149.1" r="67.4"/>
+
+		<circle fill="none" stroke="#FFF200" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="5" cx="673.1" cy="149.1" r="56.3"/>
+	<circle fill="none" stroke="#FFF200" stroke-miterlimit="10" stroke-dasharray="5" cx="673.1" cy="149.1" r="45.7"/>
+</g>
+<g id="HW28">
+	<path id="HW28_route" fill="none" stroke="#FFF200" stroke-miterlimit="10" stroke-dasharray="5" d="M194.7,500
+		c0,0,3-110.9,112.6-109.6c118.6,1.4,31.9,1.6,170.4,1.6s322.4,0,322.4,0"/>
+
+		<text transform="matrix(0.9952 9.823216e-02 -9.823216e-02 0.9952 167.5924 491.1511)" fill="#FFF200" font-family="'LetoSans'" font-size="17.0006">HW 28</text>
+</g>
+<g id="HW23">
+
+		<text transform="matrix(-3.565025e-02 0.9994 -0.9994 -3.565025e-02 43.249 41.1204)" fill="#FFF200" font-family="'LetoSans'" font-size="16.0006">HW 23</text>
+	<g>
+		<g>
+			<path fill="none" stroke="#FFF200" stroke-miterlimit="10" d="M0,66c0,0,0.9,0,2.5,0.1"/>
+			<path id="HW23_route" fill="none" stroke="#FFF200" stroke-miterlimit="10" stroke-dasharray="4.9796,4.9796" d="M7.5,66.2
+				c22.2,0.6,88.5,2.4,125.7,1.2c118.5-3.7,205.9,324.5,344.4,324.5c125.1,0,287.1,0,317.4,0"/>
+			<path fill="none" stroke="#FFF200" stroke-miterlimit="10" d="M797.5,391.9c1.6,0,2.5,0,2.5,0"/>
+		</g>
+	</g>
+</g>
+<g id="HW60">
+	<g>
+		<g>
+			<path fill="none" stroke="#FFF200" stroke-miterlimit="10" d="M800,250c0,0-1,0-3,0"/>
+			<path id="HW60_route" fill="none" stroke="#FFF200" stroke-miterlimit="10" stroke-dasharray="6.0197,6.0197" d="M791,250
+				c-41.5,0.3-212.7,5.6-218.5,69.3c-6.5,71-17.3,86.6-17.8,174.6"/>
+			<path fill="none" stroke="#FFF200" stroke-miterlimit="10" d="M554.7,497c0,1,0,2,0,3"/>
+		</g>
+	</g>
+
+		<text transform="matrix(-2.012398e-02 -0.9998 0.9998 -2.012398e-02 788.307 275.2067)" fill="#FFF200" font-family="'LetoSans'" font-size="15">HW 60</text>
+</g>
+<g id="HW10">
+	<path id="HW10_route" fill="none" stroke="#FFF200" stroke-miterlimit="10" stroke-dasharray="5" d="M847.3,42.7
+		c0,0-440.7-22.6-477,18.1s-34.6,143.1-137,177.8C145.8,268.2,62.8,342.9,62.8,500"/>
+
+		<text transform="matrix(4.957451e-02 -0.9988 0.9988 4.957451e-02 770.6674 66.0236)" fill="#FFF200" font-family="'LetoSans'" font-size="16">HW 10</text>
+</g>
+</svg>
